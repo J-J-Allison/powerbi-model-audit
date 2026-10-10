@@ -1,0 +1,6 @@
+*.pbix
+*.tmdl
+*.sql
+audit_report.xlsx
+.ipynb_checkpoints/
+__pycache__/
