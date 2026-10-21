@@ -1,6 +1,6 @@
 # Power BI Model Audit
 
-Finds what is actually used in a Power BI semantic model — and what isn't.
+Finds what is actually used in a Power BI semantic model?
 
 The notebook builds a lineage graph from the SQL layer to the report:
 
